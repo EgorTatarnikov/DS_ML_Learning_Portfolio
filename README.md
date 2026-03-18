@@ -20,9 +20,14 @@
 IBM Data Science - профессиональная программа из 12 курсов, разработанная IBM для формирования базового набора навыков Data Scientist, включая Python, предобработку, визуализацию и анализ данных, SQL и базы данных, а также основы машинного обучения.
 
 ### 📁 [Coursera — Python 3 Programming](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/tree/main/Coursera%20-%20Python%203%20Programming)
-**[Сертификат Python 3 Programming](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/blob/main/Coursera%20-%20Python%203%20Programming/00%20Coursera%20Python%203%20Programming.pdf)**
+**[Сертификат Python 3 Programming Specialization](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/blob/main/Coursera%20-%20Python%203%20Programming/00%20Coursera%20Python%203%20Programming.pdf)**
 
 Специализация из 5 курсов по программированию на Python 3 от Мичиганского университета, включающая основы языка, работу со структурами данных и базовые принципы разработки.
+
+### 📁 [Coursera — Natural Language Processing](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/tree/main/Coursera%20-%20Natural%20Language%20Processing)
+**[Сертификат Natural Language Processing Specialization](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/blob/main/Coursera%20-%20Natural%20Language%20Processing/00%20Coursera%20-%20Natural%20Language%20Processing%20Specialization.pdf)**
+
+Специализация из 4 курсов по Natural Language Processing (NLP) от DeepLearning.AI, посвящённая современным методам обработки естественного языка.
 
 ### 📁 [Yandex LLM Scaling Week 2025](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/tree/main/Yandex%20LLM%20Scaling%20Week%202025)
 **[Сертификат](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio/blob/main/Yandex%20LLM%20Scaling%20Week%202025/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20LLM%20Scaling%20Week%202025.pdf)**
